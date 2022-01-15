@@ -43,7 +43,7 @@
     "@ngrx/effects": "8.0.0",
     "@ngrx/router-store": "8.0.0",
     "@ngrx/store": "8.0.0",
-    "marked": "^0.3.9"
+    "marked": "^4.0.10"
   },
   "devDependencies": {
     "cypress": "~3.3.1",
